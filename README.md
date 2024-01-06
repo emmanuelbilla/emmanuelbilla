@@ -1,9 +1,14 @@
-### Hi there 👋 
-Hello <src= "https://img1.picmix.com/output/pic/normal/7/3/0/2/4512037_93ed3.gif" width= "30px">, Emmanuel here!!!
+### <img src= "https://img1.picmix.com/output/pic/normal/7/3/0/2/4512037_93ed3.gif" width= "200px">
+### Hello, Emmanuel here!!!
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NuelBilla?style=social)
+
+Emmanuel is a forensic scientist looking to build a career in cybersecurity and digital forensics. There is not much to view here at the moment except for some certifications projects you can find below
+
 <!------------
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FNuelBilla)
-<!--
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FNuelBilla&style=social&label=My%20twitter%20followers)
+
+
+
 
 <!--
 **emmanuelbilla/emmanuelbilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
