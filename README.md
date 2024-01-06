@@ -5,9 +5,17 @@
 
 Emmanuel is a forensic scientist looking to build a career in cybersecurity and digital forensics. There is not much to view here at the moment except for some certifications projects you can find below
 
+----------------------
+<p style="text-align: center;"><strong><u>Certifications</u></strong></p>
+<img src= "https://cdn.worldvectorlogo.com/logos/coursera.svg" alt="coursera logo" width= "50px" />
+<img src= "https://cycubix.com/wp-content/uploads/2023/08/ISC2_CC_RGB__mark-150x150.jpeg" alt="CC logo" width= "50px" />
+
+---------------------
+<strong>Tool box</strong>
+
+<img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python logo" width= "50px" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux logo" width= "50px" />
+
 <!------------
-
-
 
 
 <!--
