@@ -3,7 +3,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NuelBilla?style=social)
 
-Emmanuel is a forensic scientist looking to build a career in cybersecurity and digital forensics. There is not much to view here at the moment except for some certifications, projects you can find below
+Emmanuel is a forensic scientist looking to build a career in cybersecurity and digital forensics. There is not much to view here at the moment except for some certifications and projects you can find below
 
 ----------------------
 <p style="text-align: center;"><strong><u>Certifications</u></strong></p>
