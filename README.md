@@ -8,7 +8,7 @@ Emmanuel is a forensic scientist looking to build a career in cybersecurity and 
 ---------------------
 <strong>Tool box</strong>
 
-<img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python logo" width= "50px" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux logo" width= "50px" />
+<img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python logo" width= "100px" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux logo" width= "100px" /> <img src= "https://www.computernetworkingnotes.org/images/cisco/ccna-study-guide/csg132-01-cisco-packet-tracer.png" alt="packet tracer logo" width= "120px" />
 ----------------------
 <p style="text-align: center;"><strong><u>Certifications</u></strong></p>
 <img src= "https://udemy-certificate.s3.amazonaws.com/image/UC-3d84c177-4e61-4511-9e23-75967d46de70.jpg?v=1689013472000" alt="OSINT in 90mins" width= "400px" />
