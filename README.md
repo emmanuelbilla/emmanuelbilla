@@ -1,5 +1,5 @@
 ### <img src= "https://img1.picmix.com/output/pic/normal/7/3/0/2/4512037_93ed3.gif" width= "200px">
-### Hello, Emmanuel here!!!
+### Emmanuel here!!!
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NuelBilla?style=social)
 
