@@ -3,8 +3,11 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NuelBilla?style=social)
 
-I’m Emmanuel Billa — a purpose-driven educator, technologist, and Lead For Ghana associate teaching physics at Bonzo Kaku SHS. I believe in building a future where science, education, and technology empower the next generation to solve real problems.
+I’m Emmanuel Billa — a purpose-driven educator, technologist, and Lead For Ghana associate assigned to Bonzo Kaku SHS as physics instructor. 
+
+I believe in building a future where science, education, and technology empower the next generation to solve real problems.
 With a foundation in forensic science and a global ISC2 Certified in Cybersecurity credential, I’m charting a path toward software development to design inclusive, impact-driven solutions. I’ve led a coastal clean-up with 8 organisations to champion youth-led environmental change and helped connect dozens of young people with mentors through my work with Barcamp Cape Coast.
+
 Let’s build something meaningful — with purpose, with people, and with code.w
 
 ---------------------
